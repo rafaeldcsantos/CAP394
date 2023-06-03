@@ -1,0 +1,21 @@
+Campos:
+ 0. FILE_ID (texto, nome do arquivo original)
+ 1. LOJA (numérico)
+ 2. CAIXA (numérico)
+ 3. TRANSACAO (numérico, único para uma passagem de compras no caixa)
+ 4. DATA (4 dígitos para ano, dois para mês, dois para dia, dois para hora, dois para minutos e dois para segundos)
+ 5. NUMERO DO ITEM COMPRADO (numérico)
+ 6. DESCRICAO DO ITEM COMPRADO (texto)
+ 7. QUANTIDADE DO ITEM COMPRADO (numérico)
+ 8. VALOR UNITARIO DO ITEM COMPRADO (numérico)
+ 9. TOTAL DESTA COMPRA (numérico)
+10. FORMA DE PAGAMENTO (texto) 
+11. TOTAL PAGO (numérico)
+12. TROCO (numérico)
+13. STATUS (F para transação OK, T para transação cancelada)
+
+Exemplo:
+1  2  3      4              5   6                      7      8        9    10                 11        12   13
+03,08,001026,20050501080242,001,VELA FESTLAR FELIZ ANI,001,   0.78,    2.91,Dinheiro       ,    4.00,    1.09,F
+03,08,001026,20050501080242,002,VELA FESTLAR FELIZ ANI,001,   0.78,    2.91,Dinheiro       ,    4.00,    1.09,F
+03,08,001026,20050501080242,003,ESCOVA D. TEK DURA    ,001,   1.35,    2.91,Dinheiro       ,    4.00,    1.09,F
