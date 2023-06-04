@@ -1,3 +1,0 @@
-# 404 - Not Found
-
-Weird. You found a link to a resource that does not exist. Please [let me know](mailto:rafael.santos@inpe.br).
