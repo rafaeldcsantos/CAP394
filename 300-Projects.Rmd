@@ -1,3 +1,0 @@
-# Ideas for Projects
-
-Here are some ideas for projects. **On purpose** some of these ideas are vague and/or depends on data collection, extraction and analysis that may not be easy or even possible, but these are somehow representative of the real Data Science projects you will face, since it is somehow rare that all our data is already collected and organized.
