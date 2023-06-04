@@ -1,0 +1,49 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+
+.project {
+  padding: 0.25em;
+  background: #fbfdff;
+  color: black;
+  border: 1px solid #0A6497;
+  border-radius: 5px;
+  margin-bottom: 1em;
+}
+
+.project .title
+{
+  font-size: 110%;
+  font-weight: bold;
+  color: #0D7DBD;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.project .subtitle
+{
+  font-size: 105%;
+  font-weight: bold;
+  color: #084C71;
+  margin: 0;
+  padding: 0px;
+}
+
+.project p
+{
+  line-height: 115%;
+  padding: 0;
+  margin: 0;
+}
